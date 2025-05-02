@@ -10,3 +10,6 @@ __pycache__/
 trade_logs.csv
 
 *.log
+
+bot_session.session
+trading-session.session
